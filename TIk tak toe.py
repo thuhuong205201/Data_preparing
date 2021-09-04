@@ -1,1 +1,0 @@
-print("Tik tak toe")
